@@ -11,10 +11,11 @@ To see the fundamental background of the project visit the [Wiki](https://github
 
 The console willl perform the following tasks:
 
-create a new object
-retrive an object from a file
-do operations on objects
-destroy an object
-Storage
-All the classes are handled by the Storage engine in the FileStorage Class.
+* Create a new object
+* Retrive an object from a file
+* Do operations on objects
+* Destroy an object
+
+## Storage
+All the classes are handled by the `Storage` engine in the `FileStorage` Class.
 
